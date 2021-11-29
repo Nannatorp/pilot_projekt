@@ -4,7 +4,6 @@
   box-sizing: border-box;
 }
 img {
-  /* max-width: 100%; */
   vertical-align: middle;
   width: 100%;
   height: auto;
@@ -66,8 +65,18 @@ h1 {
 /* --------------- SECTION 2 ------------ */
 
 #section_2 img {
-  margin-top: 20px;
+  padding: 1rem;
 }
+
+/* ------------- SECTION 3 -------------- */
 video {
   max-width: 100%;
+  padding: 1rem;
 }
+
+/* ------------- SECTION 4 -------------- */
+#section_4 img {
+  padding: 1rem;
+}
+
+/* ------------- SECTION 5 -------------- */
