@@ -5,11 +5,12 @@
 }
 img,
 video {
-  vertical-align: middle;
+  /* vertical-align: middle; */
   width: 100%;
   height: auto;
   display: block;
 }
+/* ------------- NAV BAR ------------- */
 header {
   position: sticky;
   top: 0;
